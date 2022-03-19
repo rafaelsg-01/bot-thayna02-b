@@ -1,0 +1,12 @@
+2022/03/10-17:12:31.133 d4c Reusing MANIFEST C:\Drop\Rafael Lojas\03 bot-thayna03(completo)\bot-thayna03\bot-whatsapp-rl\tokens\wpp0\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/10-17:12:31.134 d4c Recovering log #5
+2022/03/10-17:12:31.176 d4c Reusing old log C:\Drop\Rafael Lojas\03 bot-thayna03(completo)\bot-thayna03\bot-whatsapp-rl\tokens\wpp0\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000005.log 
+2022/03/10-17:28:30.427 3258 Level-0 table #10: started
+2022/03/10-17:28:30.494 3258 Level-0 table #10: 1347449 bytes OK
+2022/03/10-17:28:30.507 3258 Delete type=0 #5
+2022/03/10-17:44:26.221 1dec Compacting 1@0 + 1@1 files
+2022/03/10-17:44:26.451 1dec Generated table #11@0: 23915 keys, 1168845 bytes
+2022/03/10-17:44:26.452 1dec Compacted 1@0 + 1@1 files => 1168845 bytes
+2022/03/10-17:44:26.469 1dec compacted to: files[ 0 1 0 0 0 0 0 ]
+2022/03/10-17:44:26.470 1dec Delete type=2 #7
+2022/03/10-17:44:26.470 1dec Delete type=2 #10
